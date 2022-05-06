@@ -1,0 +1,25 @@
+{
+  "User": [
+   
+    {
+      "name": "make tea",
+      "id": 2
+    },
+    {
+      "name": "make suger",
+      "id": 3
+    },
+    {
+      "name": "make food",
+      "id": 4
+    },
+    {
+      "name": "gym",
+      "id": 5
+    },
+    {
+      "name": "eclectic bill",
+      "id": 6
+    }
+  ]
+}
